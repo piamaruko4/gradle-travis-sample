@@ -8,7 +8,7 @@ public class Numbers {
     private static boolean greaterThanZero(int i){
         return i > 0;
     }
-
+// test
     private static boolean lessThanAThousand(int i){
         return i < 1000;
     }
